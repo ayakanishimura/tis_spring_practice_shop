@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+div#header {
+	background-color: #c0c0c0;
+	height: 80px;
+}
+
+div#container {
+	
+}
+
+div#sidebar {
+	background-color: #808080;
+	float: left;
+	height: 200px;
+	width: 150px;
+}
+
+div#main {
+	float: left;
+	height: 200px;
+}
+
+div#footer {
+	background-color: #c0c0c0;
+	clear: left;
+	height: 80px;
+}
